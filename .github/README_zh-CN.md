@@ -663,7 +663,9 @@ For more articles, middlewares, examples or tools check our [awesome list](https
 
 ## ‎‍💻 贡献者
 
-<img src="https://opencollective.com/fiber/contributors.svg?width=890&button=false" alt="Code Contributors" style="max-width:100%;">
+<a href="https://github.com/gofiber/fiber/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=gofiber/fiber&anon=1" width="740"/>
+</a>
 
 ## ⭐️ Star 数增长情况
 

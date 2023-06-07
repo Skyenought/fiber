@@ -693,7 +693,9 @@ Fiber 是個仰賴捐款的開放原始碼專案——用來支付如域名、Gi
 
 ## ‎‍💻 程式碼貢獻者
 
-<img src="https://opencollective.com/fiber/contributors.svg?width=890&button=false" alt="Code Contributors" style="max-width:100%;">
+<a href="https://github.com/gofiber/fiber/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=gofiber/fiber&anon=1" width="740"/>
+</a>
 
 ## ⭐️ 收藏數
 
